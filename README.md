@@ -1,5 +1,6 @@
-Hi 👋 My name is Lucas Meza Developer Full Stack 
-Eu sou desenvolvedor Full Stack, trabalhei como suporte a sistemas, fiz faculdade de Ciências da computação e hoje estou cursando Licenciatura em matemática.
+Hi 👋 My name is Lucas Meza, Full Stack Developer.
+
+I am a Full Stack developer, I worked in systems support, I have a degree in Computer Science and today I am pursuing a degree in Mathematics.
   
 * 🌍  I'm based in São Paulo - SP
 
